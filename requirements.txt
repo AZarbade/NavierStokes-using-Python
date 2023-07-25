@@ -1,0 +1,5 @@
+numpy
+matplotlib==3.7.2
+jupyter==1.0.0
+ipykernel==6.24.0
+tqdm==4.65.0
