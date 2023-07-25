@@ -1,12 +1,10 @@
-# Navier Stokes solver using Physics Informed Neural Networks
+# Navier Stokes solver using Python
 
-This is replication of an existing implementation [Navier Stokes using PINNs](https://github.com/AZarbade/Navier-Stokes-using-PINNs) but with some changes to work with GPU acceleration.
+This is Navier Stokes Solver implemented in Python.
 
 ### Reference work by: 
-- [Maziar Raissi](https://github.com/maziarraissi)
-- Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.](https://www.sciencedirect.com/science/article/pii/S0021999118307125)" Journal of Computational Physics 378 (2019): 686-707
-- [ComputationalDomain](https://github.com/ComputationalDomain). Repo: [PINNs](https://github.com/ComputationalDomain/PINNs)
-
+- [Solving the Navier-Stokes equations in Python | CFD in Python | Lid-Driven Cavity
+](https://youtu.be/BQLvNLgMTQE)
 
 ### Dependencies:
 - Visual Studio Code. {recommended for easier setup}
@@ -18,7 +16,7 @@ This is replication of an existing implementation [Navier Stokes using PINNs](ht
 ### Installation:
 1. Clone the repository.
     ~~~
-    git clone https://github.com/AZarbade/Navier-Stokes-using-PINNs-GPU.git
+    git clone https://github.com/AZarbade/NavierStokes-using-Python.git
     ~~~
 2. Open it in Visual studio code.   
 3. Open command pallet using "Ctrl + Shift + P".   
